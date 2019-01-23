@@ -20,6 +20,3 @@ let iter = (function* (){
 }())
 
 iter.next();
-
-
-
